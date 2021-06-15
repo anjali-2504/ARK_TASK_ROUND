@@ -1,4 +1,0 @@
-click
-gym
-pandas
-tqdm
