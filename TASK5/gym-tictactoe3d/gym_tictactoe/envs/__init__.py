@@ -1,2 +1,0 @@
-from gym_tictactoe.envs.tictactoe_env import TicTacToeEnv
-from gym_tictactoe.envs.tictactoe_plt_env import TicTacToePltEnv
